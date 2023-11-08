@@ -14,10 +14,10 @@ function getPasswordCriteria(){
   }
   
 // prompt for character types
-var includeLowerCase = confirm("Include lowercase characters?");
-var includeUpperCase = confirm("Include uppercase characters?");
-var includeNumeric = confirm("Include numeric characters?");
-var includeSpecialChars = confirm("Include special characters?");
+var includeLowerCase = confirm("Confirm 'OK' for password to include lower case characters.");
+var includeUpperCase = confirm("Confirm 'OK' for password to include upper case characters.");
+var includeNumeric = confirm("Confirm 'OK' for password to include numeric characters.");
+var includeSpecialChars = confirm("Confirm 'OK' for password to include special case characters.");
 
 // Validate at least one character type is selected
 while (!(includeLowerCase || includeUpperCase || includeNumeric || includeSpecialChars)) {
