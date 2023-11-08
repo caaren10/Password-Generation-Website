@@ -9,7 +9,7 @@ This project focuses on Javascript development.
 Go to your browser and enter 'https://caaren10.github.io/Password-Generation-Website/' in the address bar. You should see the application up and running. Click on the red button that says 'Generate Password'. Enter the password length by entering a numeric value between 8 and 128. Confirm 'OK' 4 times, which makes the random password include lowercase, uppercase, numeric, and special charcters. See generated password in the text box.
 
 ## Usage
-[!website screenshot](images/passwordgeneratorsc.png)
+![website screenshot](images/passwordgeneratorsc.png)
 link to deployed application: https://caaren10.github.io/Password-Generation-Website/ 
 
 ## Credits
